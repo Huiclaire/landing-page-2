@@ -23,8 +23,9 @@
 
 .cards {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-wrap: wrap;
+  margin-bottom: 72px;
 }
 
 @media(max-width: 900px) {
